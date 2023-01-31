@@ -21,6 +21,9 @@ body {
 
 .stats-container {
     display: flex;
+    flex:1;  /* same as align-items:center; */
+    cursor:pointer;
+    box-shadow:0 0 10px lightblue;
 }
 
 .stats-card {
@@ -49,7 +52,7 @@ body {
 }
 
 .game-card {
-    background-color: #FFFFFF;
+    background-color: #1ddc56;
     padding: 1%;
     margin: 1%;
     width: 300px;
@@ -59,13 +62,20 @@ body {
 
 .game-card:hover {
     cursor: pointer;
-    box-shadow: 0 0 30px lightblue;
+    box-shadow: 0 0 30px rgb(197, 245, 3);
+    transform: scale(1.1);
 }
 
 #button-container {
     text-align: center;
 }
-
+button:hover{
+    box-shadow: 0 0 10px red;
+    transform: scale(1.1);
+}
+button:active {
+    transform:scale(0.85);
+}
 button {
     font-family: 'Cabin';
     border: none;
