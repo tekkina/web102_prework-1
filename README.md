@@ -2,7 +2,7 @@
 
 Submitted by: **Tekeste Teklehaimanot**
 
-**** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**https://tekkina.github.io/web102_prework-1/** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **3** hours spent in total
 
