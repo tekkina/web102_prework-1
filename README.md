@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='/walkthrough.gif' title='Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+The GIF was created with "GIFlash" feeding the video recored using "Screen Recorder by omi(mp4 format)".
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
